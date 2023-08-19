@@ -18,7 +18,14 @@ Model description:
 
 ![model_3d](https://github.com/hk633839/Super-Resolution-RNN/assets/97289725/92133c49-5b8b-4cd6-a9b6-134b50ab0bce)
 
+
 ![model_3d_1](https://github.com/hk633839/Super-Resolution-RNN/assets/97289725/111d5f61-bf33-46a3-8a67-ec15dc97b2c2)
+
+
+### Model Architecture ###
+
+![model_block_architecture](https://github.com/hk633839/Super-Resolution-RNN/assets/97289725/e193d26a-2db4-4c27-8727-de49ef2aaa19)
+
 
 ### Sample outputs ###
 
@@ -31,8 +38,5 @@ Model description:
 ![ex4](https://github.com/hk633839/Super-Resolution-RNN/assets/97289725/621dd35c-f4e5-43ca-a93d-0bcb181d9817)
 
 
-### Model Architecture ###
-
-![model_block_architecture](https://github.com/hk633839/Super-Resolution-RNN/assets/97289725/e193d26a-2db4-4c27-8727-de49ef2aaa19)
 
 The dataset can be found here : https://www.kaggle.com/datasets/quadeer15sh/image-super-resolution-from-unsplash
